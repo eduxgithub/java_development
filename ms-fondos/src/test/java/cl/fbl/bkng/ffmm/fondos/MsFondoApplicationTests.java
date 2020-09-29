@@ -1,4 +1,4 @@
-package cl.bfcl.hipotecario.provision;
+package cl.fbl.bkng.ffmm.fondos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
